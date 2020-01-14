@@ -1,0 +1,17 @@
+body {
+    background: dimgrey;
+}
+
+h1 {
+    margin: 20px;
+}
+
+#progressText {
+    text-align: center;
+    padding: 100px;
+}
+
+.progress {
+    width: 70%;
+    margin: auto;
+}
